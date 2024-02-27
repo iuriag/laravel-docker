@@ -20,6 +20,7 @@ RUN apk add --no-cache \
     mysql-client \
     nodejs \
     npm \
+    imap \
     oniguruma-dev \
     yarn \
     openssh-client \
