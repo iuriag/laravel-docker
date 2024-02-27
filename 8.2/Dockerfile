@@ -40,6 +40,7 @@ RUN chmod +x /usr/local/bin/install-php-extensions && \
     gd \
     intl \
     pdo_mysql \
+    imap \
     pdo_pgsql \
     pcntl \
     soap \
